@@ -113,24 +113,74 @@ Status      : ⚡ ONLINE — BUILD MODE ACTIVE
 <div align="center">
 
 ### 🩸 FRONTEND STRIKE FORCE
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,jquery,react,nextjs,vue,redux,vite,tailwind,bootstrap,materialui&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,jquery,react,nextjs,vue,nuxtjs,svelte,angular,redux,vite,webpack,tailwind,bootstrap,materialui,threejs&theme=dark" />
 
 ### 💀 BACKEND WAR MACHINE
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,dotnet,java,spring,kotlin,python,c,cpp,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,dotnet,java,spring,kotlin,python,django,flask,fastapi,go,rust,c,cpp,cs,graphql&theme=dark" />
 
 ### 🗄️ DATA VAULT
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,prisma,elasticsearch&theme=dark" />
 
 ### ☁️ CLOUD COMMAND
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,cloudflare,linux,nginx,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,cloudflare,vercel,netlify,heroku,terraform,ansible,jenkins,githubactions,nginx&theme=dark" />
+
+### 🧠 AI / ML CORE
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda&theme=dark" />
 
 ### 📱 MOBILE OPS
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift,androidstudio&theme=dark" />
+
+### ⚙️ MESSAGE QUEUE & DEVTOOLS
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,grafana,prometheus,npm,yarn,pnpm,bun,electron&theme=dark" />
 
 ### 🛠️ DAILY GEAR
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman,unity,unreal&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,postman,git,github,gitlab,bitbucket,unity,unreal&theme=dark" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════ HACKER LAB ═══════════════ -->
+
+# 👿 HACKER LAB — SECURITY OPS
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=600&color=FF0000&center=true&vCenter=true&width=800&lines=root%40kali%3A~%23+booting+security+lab...;scanning+network...+⚡;firewall%3A+ACTIVE+🛡️;penetration+testing+lab%3A+READY+💀;ethical+hacking+mode%3A+ENGAGED+👿" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,debian,arch,bash,powershell&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/BURP_SUITE-000000?style=for-the-badge&logo=burpsuite&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit&logoColor=ff0000"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/OAUTH_2.0-000000?style=for-the-badge&logoColor=ff0000"/>
+
+</div>
+
+```text
+╔════════════════════════════════════════════════╗
+║  🛡️  SECURITY PROTOCOL                         ║
+╠════════════════════════════════════════════════╣
+║  ✔ OWASP Top 10                                ║
+║  ✔ JWT / OAuth 2.0 Authentication              ║
+║  ✔ REST API Security                           ║
+║  ✔ Linux Hardening                             ║
+║  ✔ Network Analysis                            ║
+║  ✔ Ethical Hacking (Lab Practice)              ║
+║  ✔ Secure Backend Architecture                 ║
+╚════════════════════════════════════════════════╝
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -230,8 +280,8 @@ Status      : ⚡ ONLINE — BUILD MODE ACTIVE
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nikhilfaldu&show_icons=true&theme=radical&hide_border=true&bg_color=0d0000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&ring_color=ff0000"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilfaldu&layout=compact&theme=radical&hide_border=true&bg_color=0d0000&title_color=ff0000&text_color=ffffff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nikhilfaldu&show_icons=true&hide_border=true&bg_color=0d0000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&ring_color=ff0000&cache_seconds=14400"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilfaldu&layout=compact&hide_border=true&bg_color=0d0000&title_color=ff0000&text_color=ffffff&cache_seconds=14400"/>
 
 <br><br>
 
@@ -251,7 +301,7 @@ Status      : ⚡ ONLINE — BUILD MODE ACTIVE
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilfaldu&theme=radical&no-frame=true&no-bg=true&row=2&column=4&title_color=ff0000"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilfaldu&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"/>
 
 </div>
 
