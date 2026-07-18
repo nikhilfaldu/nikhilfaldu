@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360">
+  <defs>
+    <!-- Pulsing demon glow -->
+    <radialGradient id="demonGlow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#ff0000" stop-opacity="0.55">
+        <animate attributeName="stop-opacity" values="0.55;0.15;0.55" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="45%" stop-color="#660000" stop-opacity="0.30">
+        <animate attributeName="stop-opacity" values="0.30;0.08;0.30" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="bloodText" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff4444"/>
+      <stop offset="45%" stop-color="#ff0000"/>
+      <stop offset="100%" stop-color="#7a0000"/>
+    </linearGradient>
+
+    <linearGradient id="scanFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff0000" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ff0000" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ff0000" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="redGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- ══════════ BACKGROUND ══════════ -->
+  <rect width="1000" height="360" fill="#050000"/>
+  <rect width="1000" height="360" fill="url(#demonGlow)"/>
+
+  <!-- ══════════ MATRIX RAIN (red) ══════════ -->
+  <g font-family="Courier New, monospace" font-size="15" fill="#ff0000" opacity="0.35">
+    <text x="30" y="0">1<tspan x="30" dy="18">0</tspan><tspan x="30" dy="18">1</tspan><tspan x="30" dy="18">1</tspan><tspan x="30" dy="18">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -120" to="0 420" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="90" y="0">0<tspan x="90" dy="18">1</tspan><tspan x="90" dy="18">0</tspan><tspan x="90" dy="18">1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -100" to="0 420" dur="5.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="150" y="0">X<tspan x="150" dy="18">0</tspan><tspan x="150" dy="18">F</tspan><tspan x="150" dy="18">1</tspan><tspan x="150" dy="18">A</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -140" to="0 420" dur="3.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="210" y="0">1<tspan x="210" dy="18">1</tspan><tspan x="210" dy="18">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -90" to="0 420" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="790" y="0">0<tspan x="790" dy="18">x</tspan><tspan x="790" dy="18">6</tspan><tspan x="790" dy="18">6</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -110" to="0 420" dur="4.8s" repeatCount="indefinite"/>
+    </text>
+    <text x="850" y="0">1<tspan x="850" dy="18">0</tspan><tspan x="850" dy="18">1</tspan><tspan x="850" dy="18">0</tspan><tspan x="850" dy="18">1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -130" to="0 420" dur="3.6s" repeatCount="indefinite"/>
+    </text>
+    <text x="910" y="0">F<tspan x="910" dy="18">F</tspan><tspan x="910" dy="18">0</tspan><tspan x="910" dy="18">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -100" to="0 420" dur="5s" repeatCount="indefinite"/>
+    </text>
+    <text x="960" y="0">1<tspan x="960" dy="18">0</tspan><tspan x="960" dy="18">1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -80" to="0 420" dur="4.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- ══════════ DEMON EYES ══════════ -->
+  <g filter="url(#redGlow)">
+    <ellipse cx="405" cy="52" rx="26" ry="9" fill="#ff0000">
+      <animate attributeName="ry" values="9;9;1;9;9" keyTimes="0;0.44;0.5;0.56;1" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="595" cy="52" rx="26" ry="9" fill="#ff0000">
+      <animate attributeName="ry" values="9;9;1;9;9" keyTimes="0;0.44;0.5;0.56;1" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/>
+    </ellipse>
+    <!-- eye slits -->
+    <ellipse cx="405" cy="52" rx="4" ry="8" fill="#050000"/>
+    <ellipse cx="595" cy="52" rx="4" ry="8" fill="#050000"/>
+  </g>
+
+  <!-- ══════════ GLITCH NAME ══════════ -->
+  <!-- cyan-ish ghost layer -->
+  <text x="500" y="165" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="72" fill="#ffffff" opacity="0.18">NIKHIL FALDU
+    <animate attributeName="x" values="500;497;503;500;500" dur="0.9s" repeatCount="indefinite"/>
+  </text>
+  <!-- dark red ghost layer -->
+  <text x="500" y="165" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="72" fill="#7a0000" opacity="0.8">NIKHIL FALDU
+    <animate attributeName="x" values="500;504;496;500;500" dur="0.9s" repeatCount="indefinite"/>
+  </text>
+  <!-- main layer -->
+  <text x="500" y="165" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="72" fill="url(#bloodText)" filter="url(#redGlow)">NIKHIL FALDU
+    <animate attributeName="opacity" values="1;1;0.75;1;1;1;0.85;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- ══════════ SUBTITLE ══════════ -->
+  <text x="500" y="210" text-anchor="middle" font-family="Courier New, monospace" font-weight="bold" font-size="24" fill="#ff2222" filter="url(#softGlow)" letter-spacing="4">⚡ FULL STACK SOFTWARE ENGINEER ⚡
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2.4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- ══════════ TERMINAL LINE ══════════ -->
+  <g font-family="Courier New, monospace" font-size="18" font-weight="bold">
+    <text x="500" y="255" text-anchor="middle" fill="#cc0000">root@nikhilfaldu:~# ACCESS GRANTED</text>
+    <rect x="672" y="240" width="11" height="19" fill="#ff0000">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- ══════════ POWER BAR ══════════ -->
+  <rect x="300" y="285" width="400" height="8" rx="4" fill="#1a0000" stroke="#440000"/>
+  <rect x="300" y="285" width="400" height="8" rx="4" fill="#ff0000" filter="url(#softGlow)">
+    <animate attributeName="width" values="0;400;400;0;0" keyTimes="0;0.4;0.7;0.95;1" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="500" y="320" text-anchor="middle" font-family="Courier New, monospace" font-size="14" fill="#ff4444" letter-spacing="2">BUILD • LEARN • CREATE • DOMINATE
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- ══════════ SCANLINE ══════════ -->
+  <rect x="0" y="0" width="1000" height="26" fill="url(#scanFade)" opacity="0.5">
+    <animate attributeName="y" values="-30;360" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ══════════ CORNER BRACKETS ══════════ -->
+  <g stroke="#ff0000" stroke-width="3" fill="none" filter="url(#softGlow)">
+    <path d="M 15 45 L 15 15 L 45 15"/>
+    <path d="M 955 15 L 985 15 L 985 45"/>
+    <path d="M 985 315 L 985 345 L 955 345"/>
+    <path d="M 45 345 L 15 345 L 15 315"/>
+    <animate attributeName="stroke" values="#ff0000;#660000;#ff0000" dur="2.5s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- ══════════ TOP/BOTTOM PULSE LINES ══════════ -->
+  <rect x="0" y="0" width="1000" height="3" fill="#ff0000">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="0" y="357" width="1000" height="3" fill="#ff0000">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
