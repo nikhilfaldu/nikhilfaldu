@@ -1,15 +1,12 @@
 <div align="center">
 
-<!-- ═══════════════ 👿 DEMON BANNER (custom animated SVG) ═══════════════ -->
-<!-- ⚠️ demon-header.svg file tara profile repo (nikhilfaldu/nikhilfaldu) ma upload karvi FARJIYAAT che! -->
+<!-- ═══════════════ 👿 DEMON BANNER (demon-header.svg repo ma hovi joiye!) ═══════════════ -->
 
 <img src="./demon-header.svg" width="100%" alt="NIKHIL FALDU — DEMON MODE"/>
 
-<!-- ═══════════════ GLITCH HEADER ═══════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,25:1a0000,50:660000,75:cc0000,100:ff0000&text=SYSTEM%20BREACH&fontColor=ff0000&fontSize=50&animation=twinkling&stroke=ffffff&strokeWidth=1&desc=💀%20ACCESS%20LEVEL%3A%20ROOT%20💀&descSize=20&descAlignY=75"/>
-
 <!-- ═══════════════ TYPING ANIMATION STACK ═══════════════ -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2000&pause=600&color=FF0000&center=true&vCenter=true&width=1000&height=75&lines=👿+N+I+K+H+I+L+•+F+A+L+D+U+👿;⚡+FULL+STACK+SOFTWARE+ENGINEER+⚡;💀+SYSTEM+ARCHITECT+💀;🔥+DEMON+MODE%3A+ACTIVATED+🔥;🩸+CODE+•+BUILD+•+DEPLOY+•+DOMINATE+🩸" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=400&color=CC0000&center=true&vCenter=true&width=900&lines=root%40nikhilfaldu%3A~%23+sudo+summon+--demon;%5B████████████████████%5D+100%25+SUMMONED+👿;root%40nikhilfaldu%3A~%23+loading+LARAVEL+•+NEXT.JS+•+NODE.JS...;root%40nikhilfaldu%3A~%23+AI+•+CLOUD+•+DEVOPS+modules+ACTIVE;root%40nikhilfaldu%3A~%23+firewall+DOWN+•+skills+UP+⚡;root%40nikhilfaldu%3A~%23+STATUS%3A+UNSTOPPABLE+🔥" />
 
@@ -118,28 +115,112 @@ Status      : ⚡ ONLINE — BUILD MODE ACTIVE
 <div align="center">
 
 ### 🩸 FRONTEND STRIKE FORCE
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,jquery,react,nextjs,vue,nuxtjs,svelte,angular,redux,vite,webpack,tailwind,bootstrap,materialui,threejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=sass&theme=dark" title="Sass" alt="Sass" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=jquery&theme=dark" title="jQuery" alt="jQuery" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=vue&theme=dark" title="Vue.js" alt="Vue.js" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" title="Nuxt.js" alt="Nuxt.js" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=svelte&theme=dark" title="Svelte" alt="Svelte" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=angular&theme=dark" title="Angular" alt="Angular" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=redux&theme=dark" title="Redux" alt="Redux" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" title="Vite" alt="Vite" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=webpack&theme=dark" title="Webpack" alt="Webpack" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind CSS" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" alt="Bootstrap" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=materialui&theme=dark" title="Material UI" alt="Material UI" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=threejs&theme=dark" title="Three.js" alt="Three.js" width="48" height="48"/>
 
 ### 💀 BACKEND WAR MACHINE
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,dotnet,java,spring,kotlin,python,django,flask,fastapi,go,rust,c,cpp,cs,graphql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" alt="PHP" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" title="Laravel" alt="Laravel" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express.js" alt="Express.js" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" title="NestJS" alt="NestJS" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" title=".NET / ASP.NET" alt=".NET / ASP.NET" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot" alt="Spring Boot" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" title="Kotlin" alt="Kotlin" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=django&theme=dark" title="Django" alt="Django" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" title="Flask" alt="Flask" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=go&theme=dark" title="Go" alt="Go" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" title="Rust" alt="Rust" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" alt="C" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" title="C#" alt="C#" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=graphql&theme=dark" title="GraphQL" alt="GraphQL" width="48" height="48"/>
 
 ### 🗄️ DATA VAULT
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,prisma,elasticsearch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" alt="Redis" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" title="SQLite" alt="SQLite" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" alt="Firebase" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=supabase&theme=dark" title="Supabase" alt="Supabase" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=prisma&theme=dark" title="Prisma" alt="Prisma" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" title="Elasticsearch" alt="Elasticsearch" width="48" height="48"/>
 
 ### ☁️ CLOUD COMMAND
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,cloudflare,vercel,netlify,heroku,terraform,ansible,jenkins,githubactions,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" title="Kubernetes" alt="Kubernetes" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" alt="AWS" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=azure&theme=dark" title="Microsoft Azure" alt="Microsoft Azure" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="Google Cloud" alt="Google Cloud" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" title="Cloudflare" alt="Cloudflare" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Vercel" alt="Vercel" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=netlify&theme=dark" title="Netlify" alt="Netlify" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=heroku&theme=dark" title="Heroku" alt="Heroku" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=terraform&theme=dark" title="Terraform" alt="Terraform" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=ansible&theme=dark" title="Ansible" alt="Ansible" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" title="Jenkins" alt="Jenkins" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" alt="Nginx" width="48" height="48"/>
 
 ### 🧠 AI / ML CORE
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="PyTorch" alt="PyTorch" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="TensorFlow" alt="TensorFlow" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" title="OpenCV" alt="OpenCV" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=anaconda&theme=dark" title="Anaconda" alt="Anaconda" width="48" height="48"/>
 
 ### 📱 MOBILE OPS
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" title="Flutter" alt="Flutter" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=dart&theme=dark" title="Dart" alt="Dart" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" title="Kotlin" alt="Kotlin" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=swift&theme=dark" title="Swift" alt="Swift" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" title="Android Studio" alt="Android Studio" width="48" height="48"/>
 
 ### ⚙️ MESSAGE QUEUE & DEVTOOLS
-<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,grafana,prometheus,npm,yarn,pnpm,bun,electron&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark" title="Apache Kafka" alt="Apache Kafka" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" title="RabbitMQ" alt="RabbitMQ" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=grafana&theme=dark" title="Grafana" alt="Grafana" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=prometheus&theme=dark" title="Prometheus" alt="Prometheus" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=npm&theme=dark" title="npm" alt="npm" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=yarn&theme=dark" title="Yarn" alt="Yarn" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=pnpm&theme=dark" title="pnpm" alt="pnpm" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=bun&theme=dark" title="Bun" alt="Bun" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=electron&theme=dark" title="Electron" alt="Electron" width="48" height="48"/>
 
 ### 🛠️ DAILY GEAR
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,postman,git,github,gitlab,bitbucket,unity,unreal&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" alt="VS Code" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" title="Visual Studio" alt="Visual Studio" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" alt="Figma" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=gitlab&theme=dark" title="GitLab" alt="GitLab" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=bitbucket&theme=dark" title="Bitbucket" alt="Bitbucket" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=unity&theme=dark" title="Unity" alt="Unity" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=unreal&theme=dark" title="Unreal Engine" alt="Unreal Engine" width="48" height="48"/>
 
 </div>
 
@@ -155,7 +236,13 @@ Status      : ⚡ ONLINE — BUILD MODE ACTIVE
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,debian,arch,bash,powershell&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kali&theme=dark" title="Kali Linux" alt="Kali Linux" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" title="Ubuntu" alt="Ubuntu" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=debian&theme=dark" title="Debian" alt="Debian" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=arch&theme=dark" title="Arch Linux" alt="Arch Linux" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" title="Bash" alt="Bash" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" alt="PowerShell" width="48" height="48"/>
 
 <br><br>
 
