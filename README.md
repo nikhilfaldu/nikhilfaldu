@@ -393,8 +393,6 @@ Status      : ⚡ ONLINE — BUILD MODE ACTIVE
 
 <img src="https://github-profile-trophy.vercel.app/?username=nikhilfaldu&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&v=2"/>
 
-<sub>⚠️ Trophy card load na thay to thodi vaar pachhi refresh karje — free server par traffic vadhare hoy tyare slow thay che.</sub>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
