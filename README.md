@@ -1,14 +1,21 @@
 <div align="center">
 
+<!-- ═══════════════ 👿 DEMON BANNER (custom animated SVG) ═══════════════ -->
+<!-- ⚠️ demon-header.svg file tara profile repo (nikhilfaldu/nikhilfaldu) ma upload karvi FARJIYAAT che! -->
+
+<img src="./demon-header.svg" width="100%" alt="NIKHIL FALDU — DEMON MODE"/>
+
 <!-- ═══════════════ GLITCH HEADER ═══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:000000,25:1a0000,50:660000,75:cc0000,100:ff0000&text=NIKHIL%20FALDU&fontColor=ff0000&fontSize=60&animation=twinkling&stroke=ffffff&strokeWidth=1&desc=⚡%20FULL%20STACK%20SOFTWARE%20ENGINEER%20⚡&descSize=20&descAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,25:1a0000,50:660000,75:cc0000,100:ff0000&text=SYSTEM%20BREACH&fontColor=ff0000&fontSize=50&animation=twinkling&stroke=ffffff&strokeWidth=1&desc=💀%20ACCESS%20LEVEL%3A%20ROOT%20💀&descSize=20&descAlignY=75"/>
 
-<!-- ═══════════════ TYPING ANIMATION 1 ═══════════════ -->
+<!-- ═══════════════ TYPING ANIMATION STACK ═══════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=1000&height=70&lines=👿+NIKHIL+FALDU+👿;⚡+FULL+STACK+SOFTWARE+ENGINEER+⚡;💀+SYSTEM+ARCHITECT+💀;🩸+CODE+•+BUILD+•+DEPLOY+•+DOMINATE+🩸" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2000&pause=600&color=FF0000&center=true&vCenter=true&width=1000&height=75&lines=👿+N+I+K+H+I+L+•+F+A+L+D+U+👿;⚡+FULL+STACK+SOFTWARE+ENGINEER+⚡;💀+SYSTEM+ARCHITECT+💀;🔥+DEMON+MODE%3A+ACTIVATED+🔥;🩸+CODE+•+BUILD+•+DEPLOY+•+DOMINATE+🩸" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=CC0000&center=true&vCenter=true&width=900&lines=root%40nikhilfaldu%3A~%23+initializing+system...;root%40nikhilfaldu%3A~%23+loading+LARAVEL+•+NEXT.JS+•+NODE.JS...;root%40nikhilfaldu%3A~%23+AI+•+CLOUD+•+DEVOPS+modules+active...;root%40nikhilfaldu%3A~%23+STATUS%3A+ONLINE+✔;root%40nikhilfaldu%3A~%23+BUILD+•+LEARN+•+CREATE+•+REPEAT" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=400&color=CC0000&center=true&vCenter=true&width=900&lines=root%40nikhilfaldu%3A~%23+sudo+summon+--demon;%5B████████████████████%5D+100%25+SUMMONED+👿;root%40nikhilfaldu%3A~%23+loading+LARAVEL+•+NEXT.JS+•+NODE.JS...;root%40nikhilfaldu%3A~%23+AI+•+CLOUD+•+DEVOPS+modules+ACTIVE;root%40nikhilfaldu%3A~%23+firewall+DOWN+•+skills+UP+⚡;root%40nikhilfaldu%3A~%23+STATUS%3A+UNSTOPPABLE+🔥" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FF3333&center=true&vCenter=true&width=800&lines=BUILD+•+LEARN+•+CREATE;BREAK+•+FIX+•+REPEAT;GAME+OVER%3F+NEVER." />
 
 <!-- ═══════════════ MATRIX LINE ═══════════════ -->
 
