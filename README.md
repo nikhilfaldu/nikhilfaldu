@@ -280,12 +280,12 @@ Status      : ⚡ ONLINE — BUILD MODE ACTIVE
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nikhilfaldu&show_icons=true&hide_border=true&bg_color=0d0000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&ring_color=ff0000&cache_seconds=14400"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilfaldu&layout=compact&hide_border=true&bg_color=0d0000&title_color=ff0000&text_color=ffffff&cache_seconds=14400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilfaldu&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhilfaldu&theme=github_dark"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilfaldu&theme=radical&hide_border=true&background=0d0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
+<img src="https://streak-stats.demolab.com/?user=nikhilfaldu&hide_border=true&background=0d0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
 
 <br><br>
 
@@ -301,7 +301,9 @@ Status      : ⚡ ONLINE — BUILD MODE ACTIVE
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilfaldu&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilfaldu&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&v=2"/>
+
+<sub>⚠️ Trophy card load na thay to thodi vaar pachhi refresh karje — free server par traffic vadhare hoy tyare slow thay che.</sub>
 
 </div>
 
@@ -318,11 +320,6 @@ Status      : ⚡ ONLINE — BUILD MODE ACTIVE
 <br>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilfaldu&theme=github_dark"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhilfaldu&theme=github_dark"/>
-
-<br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilfaldu&theme=github_dark"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhilfaldu&theme=github_dark&utcOffset=5.5"/>
 
 </div>
