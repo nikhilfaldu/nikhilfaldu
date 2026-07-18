@@ -11,8 +11,6 @@
 
 <!-- ═══════════════ TYPING ANIMATION STACK ═══════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2000&pause=600&color=FF0000&center=true&vCenter=true&width=1000&height=75&lines=👿+N+I+K+H+I+L+•+F+A+L+D+U+👿;⚡+FULL+STACK+SOFTWARE+ENGINEER+⚡;💀+SYSTEM+ARCHITECT+💀;🔥+DEMON+MODE%3A+ACTIVATED+🔥;🩸+CODE+•+BUILD+•+DEPLOY+•+DOMINATE+🩸" />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=400&color=CC0000&center=true&vCenter=true&width=900&lines=root%40nikhilfaldu%3A~%23+sudo+summon+--demon;%5B████████████████████%5D+100%25+SUMMONED+👿;root%40nikhilfaldu%3A~%23+loading+LARAVEL+•+NEXT.JS+•+NODE.JS...;root%40nikhilfaldu%3A~%23+AI+•+CLOUD+•+DEVOPS+modules+ACTIVE;root%40nikhilfaldu%3A~%23+firewall+DOWN+•+skills+UP+⚡;root%40nikhilfaldu%3A~%23+STATUS%3A+UNSTOPPABLE+🔥" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FF3333&center=true&vCenter=true&width=800&lines=BUILD+•+LEARN+•+CREATE;BREAK+•+FIX+•+REPEAT;GAME+OVER%3F+NEVER." />
